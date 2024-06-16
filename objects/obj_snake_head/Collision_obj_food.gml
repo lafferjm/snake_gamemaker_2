@@ -1,5 +1,7 @@
 instance_destroy(obj_food);
 
+audio_play_sound(snd_eat_food, 2, false);
+
 create_food();
 
 var _body_segment_count = ds_list_size(body_segments);

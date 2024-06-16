@@ -41,6 +41,8 @@
     {"id":{"name":"obj_snake_head","path":"objects/obj_snake_head/obj_snake_head.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"scr_create_food","path":"scripts/scr_create_food/scr_create_food.yy",},},
+    {"id":{"name":"snd_background_music","path":"sounds/snd_background_music/snd_background_music.yy",},},
+    {"id":{"name":"snd_eat_food","path":"sounds/snd_eat_food/snd_eat_food.yy",},},
     {"id":{"name":"spr_food","path":"sprites/spr_food/spr_food.yy",},},
     {"id":{"name":"spr_snake","path":"sprites/spr_snake/spr_snake.yy",},},
   ],
