@@ -5,3 +5,4 @@ for (var i = 0; i < 2; i++) {
 	ds_list_add(body_segments, body_instance.id);
 }
 
+create_food();
