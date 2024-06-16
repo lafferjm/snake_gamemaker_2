@@ -1,3 +1,6 @@
+x_direction = 0;
+y_direction = 0;
+
 body_segments = ds_list_create();
 
 for (var _i = 0; _i < 2; _i++) {
